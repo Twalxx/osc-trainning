@@ -1,2 +1,0 @@
-# osc-trainning
-osc-trainning
